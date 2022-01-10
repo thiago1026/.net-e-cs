@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\bin\Debug\net6.0\DigitalInnoationOne.exe
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\bin\Debug\net6.0\DigitalInnoationOne.deps.json
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\bin\Debug\net6.0\DigitalInnoationOne.runtimeconfig.json
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\bin\Debug\net6.0\DigitalInnoationOne.dll
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\bin\Debug\net6.0\ref\DigitalInnoationOne.dll
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\bin\Debug\net6.0\DigitalInnoationOne.pdb
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.dll
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\ref\DigitalInnoationOne.dll
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.pdb
+C:\Users\thiag\Desktop\Projetos\DigitalInnoationOne\obj\Debug\net6.0\DigitalInnoationOne.genruntimeconfig.cache
