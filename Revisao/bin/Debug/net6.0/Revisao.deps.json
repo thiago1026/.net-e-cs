@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "EstruturaDoPrograma/1.0.0": {
+      "Revisao/1.0.0": {
         "runtime": {
-          "EstruturaDoPrograma.dll": {}
+          "Revisao.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EstruturaDoPrograma/1.0.0": {
+    "Revisao/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

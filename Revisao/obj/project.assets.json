@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\Desktop\\Projetos\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
-      "projectName": "EstruturaDoPrograma",
-      "projectPath": "C:\\Users\\thiag\\Desktop\\Projetos\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\Desktop\\Projetos\\Revisao\\Revisao.csproj",
+      "projectName": "Revisao",
+      "projectPath": "C:\\Users\\thiag\\Desktop\\Projetos\\Revisao\\Revisao.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\Desktop\\Projetos\\EstruturaDoPrograma\\obj\\",
+      "outputPath": "C:\\Users\\thiag\\Desktop\\Projetos\\Revisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
